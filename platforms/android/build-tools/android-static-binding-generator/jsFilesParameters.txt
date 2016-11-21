@@ -1,0 +1,2 @@
+/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/main-page.js
+/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/src/getContacts.js

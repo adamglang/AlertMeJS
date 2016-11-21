@@ -52,7 +52,7 @@
   "_id": "nativescript-contacts@1.5.0",
   "scripts": {},
   "_shasum": "0e60430e52bcb09fa91c14e4c27ab6e2df8071b7",
-  "_from": "nativescript-contacts@latest",
+  "_from": "nativescript-contacts@>=1.5.0 <2.0.0",
   "_npmVersion": "2.14.7",
   "_nodeVersion": "4.2.2",
   "_npmUser": {

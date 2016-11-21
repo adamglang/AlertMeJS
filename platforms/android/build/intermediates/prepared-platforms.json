@@ -1,0 +1,7 @@
+{
+    "nativescript-contacts": true,
+    "nativescript-messenger": true,
+    "nativescript-permissions": true,
+    "tns-core-modules": true,
+    "tns-core-modules-widgets": true
+}

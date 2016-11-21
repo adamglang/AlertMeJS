@@ -50,7 +50,7 @@
   "_id": "nativescript-messenger@1.2.0",
   "scripts": {},
   "_shasum": "f0db919ba0932e559191d826cc5eb8fcf00212ab",
-  "_from": "nativescript-messenger@latest",
+  "_from": "nativescript-messenger@>=1.2.0 <2.0.0",
   "_npmVersion": "2.14.7",
   "_nodeVersion": "4.2.2",
   "_npmUser": {

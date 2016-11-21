@@ -1,22 +1,37 @@
-// lets require our dependencies
-var contacts = require('nativescript-contacts');
-var messenger = require('nativescript-messenger');
-var model = require("./main-view-model");
+(function(Executables) {
 
-// lets set up our model so its accessible in the page
-exports.pageLoaded = function(args) {
-    var page = args.object;
-    page.bindingContext = model;
-}
+    var app = require('application');
+    var contacts = require('nativescript-contacts');
+    var model = require("./main-view-model");
+    var permissions = require('nativescript-permissions');
+    var sms = android.telephony.SmsManager.getDefault();
+    var getContact = require('./src/getContacts.js');
 
-contacts.getContact().then(function(result){
+    Executables.pageLoaded = function(args) {
+        var page = args.object;
+        page.bindingContext = model;
+    };
 
-    var contact = result.data;
-    model.contact_name = contact.name.given;
-    // grab the first phone number in contact
-    if(contact.phoneNumbers.length > 0){
-        model.phone = contact.phoneNumbers[0];
-    }
+    Executables.sendMessage = function(args){
+        var phonenumber = model.phone.value;
+        sms.sendTextMessage(phonenumber, null, "Sent from alert me :)", null, null);
+    };
 
-});
+    Executables.accessContacts = function() {
+        permissions.requestPermission(android.Manifest.permission.READ_CONTACTS, "I need these permissions because I'm cool")
+            .then(function() {
+                permissions.requestPermission(android.Manifest.permission.SEND_SMS, "I need these permissions because I'm cool")
+                    .then(function() {
+                        getContact();
+                    })
+                    .catch(function(error) {
+                        console.log("Uh oh, no permissions - plan B time!" + "\n" + error);
+                    });
+            })
+            .catch(function(error) {
+                console.log("Uh oh, no permissions - plan B time!" + "\n" + error.stack);
+            });
+    };
+
+}(exports));
 

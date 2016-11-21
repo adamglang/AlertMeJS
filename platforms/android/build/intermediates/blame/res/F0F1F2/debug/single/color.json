@@ -4,12 +4,12 @@
         "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/abc_tint_default.xml",
-        "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_default.xml"
-    },
-    {
         "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/abc_tint_switch_track.xml",
         "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/abc_tint_default.xml",
+        "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_default.xml"
     },
     {
         "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/abc_primary_text_disable_only_material_light.xml",
@@ -66,5 +66,13 @@
     {
         "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/color/design_error.xml",
+        "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/color/design_error.xml"
     }
 ]
