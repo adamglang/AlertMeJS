@@ -2,6 +2,7 @@
     "nativescript-contacts": true,
     "nativescript-messenger": true,
     "nativescript-permissions": true,
+    "nativescript-unit-test-runner": true,
     "tns-core-modules": true,
     "tns-core-modules-widgets": true
 }

@@ -1,0 +1,96 @@
+{
+  "name": "nativescript-unit-test-runner",
+  "description": "NativeScript unit test runner component.",
+  "version": "0.3.4",
+  "author": {
+    "name": "Telerik",
+    "email": "support@telerik.com"
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-unit-test-runner#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-unit-test-runner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-unit-test-runner/issues"
+  },
+  "main": "app.js",
+  "dist": {
+    "tarball": "http://artifactory.cobalt.com/artifactory/api/npm/npm-repo/nativescript-unit-test-runner/-/nativescript-unit-test-runner-0.3.4.tgz",
+    "shasum": "f6de523d473236559ca0e4202d12d521798d6811"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^1.1.2",
+    "grunt-ts": "^5.0.1",
+    "typescript": "^1.8.2"
+  },
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "enchev",
+      "email": "vladimir.enchev@gmail.com"
+    },
+    {
+      "name": "erjangavalji",
+      "email": "erjan.gavalji@gmail.com"
+    },
+    {
+      "name": "hamorphis",
+      "email": "rossen.hristov@progress.com"
+    },
+    {
+      "name": "hdeshev",
+      "email": "hristo@deshev.com"
+    },
+    {
+      "name": "nsndeck",
+      "email": "nedyalko.nikolov@telerik.com"
+    },
+    {
+      "name": "rosen-vladimirov",
+      "email": "rosen.vladimirov.91@gmail.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    },
+    {
+      "name": "valio.stoychev",
+      "email": "valio.stoychev@gmail.com"
+    }
+  ],
+  "directories": {},
+  "scripts": {
+    "test": "exit 0",
+    "postinstall": "node postinstall.js",
+    "preuninstall": "node preuninstall.js"
+  },
+  "_from": "nativescript-unit-test-runner@>=0.3.4 <0.4.0",
+  "_npmVersion": "3.10.3",
+  "_npmUser": {
+    "name": "vakrilov",
+    "email": "alexander.vakrilov@gmail.com"
+  },
+  "_id": "nativescript-unit-test-runner@0.3.4",
+  "nativescript": {
+    "platforms": {
+      "android": "1.6.0",
+      "ios": "1.6.0"
+    }
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-unit-test-runner-0.3.4.tgz_1478607256625_0.03711874270811677"
+  },
+  "_shasum": "f6de523d473236559ca0e4202d12d521798d6811",
+  "_resolved": "http://artifactory.cobalt.com/artifactory/api/npm/npm-repo/nativescript-unit-test-runner/-/nativescript-unit-test-runner-0.3.4.tgz",
+  "_nodeVersion": "6.7.0",
+  "readme": "ERROR: No README data found!"
+}

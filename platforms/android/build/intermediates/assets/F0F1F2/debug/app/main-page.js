@@ -1,36 +1,22 @@
 (function(Executables) {
-
-    var app = require('application');
-    var contacts = require('nativescript-contacts');
+    
     var model = require("./main-view-model");
-    var permissions = require('nativescript-permissions');
-    var sms = android.telephony.SmsManager.getDefault();
-    var getContacts = require('./src/getContacts.js');
+    var getContact = require('./src/getContacts.js');
+    var getPermissions = require('./src/getPermissions.js');
+    var sendMessage = require('./src/sendMessage.js');
 
     Executables.pageLoaded = function(args) {
         var page = args.object;
         page.bindingContext = model;
+        getPermissions();
     };
 
-    Executables.sendMessage = function(args){
-        var phonenumber = model.phone.value;
-        sms.sendTextMessage(phonenumber, null, "Sent from alert me :)", null, null);
+    Executables.sendMessage = function(){
+        sendMessage();
     };
 
-    Executables.accessContacts = function() {
-        permissions.requestPermission(android.Manifest.permission.READ_CONTACTS, "I need these permissions because I'm cool")
-            .then(function() {
-                permissions.requestPermission(android.Manifest.permission.SEND_SMS, "I need these permissions because I'm cool")
-                    .then(function() {
-                        getContacts();
-                    })
-                    .catch(function(error) {
-                        console.log("Uh oh, no permissions - plan B time!" + "\n" + error);
-                    });
-            })
-            .catch(function(error) {
-                console.log("Uh oh, no permissions - plan B time!" + "\n" + error.stack);
-            });
+    Executables.getContact = function() {
+        getContact();
     };
 
 }(exports));
