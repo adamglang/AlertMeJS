@@ -1,1 +1,1 @@
-module.exports = {"port":"9876","ips":["127.0.0.1","139.126.184.23"],"options":{"debugTransport":false,"debugBrk":false,"watch":false}}
+module.exports = {"port":"9876","ips":["127.0.0.1","192.168.0.3","192.168.0.24"],"options":{"debugTransport":false,"debugBrk":false,"watch":false}}

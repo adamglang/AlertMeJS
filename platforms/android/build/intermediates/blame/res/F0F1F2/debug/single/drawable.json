@@ -88,12 +88,12 @@
         "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
         "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable/abc_btn_borderless_material.xml",

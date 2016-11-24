@@ -6,16 +6,23 @@ var GetContacts = {
     init: function() {
         var self = this;
         contacts.getContact().then(function(args){
-            model.contactName = self.makeName(args.data);
-            model.phone = self.getPhoneNumber(args.data);
+            self.addContact(args.data);
         }).catch(function(e) {
             console.log("promise \"contacts.getContact()\" failed with" + e.stack + "\n" + "value of self:" + " " + self)
         });
     },
 
+    addContact: function(data) {
+        var self = this;
+        model.contacts.push({
+            contactName: self.makeName(data),
+            contactPhone: self.getPhoneNumber(data)
+        });
+    },
+
     getPhoneNumber: function(data) {
         if(data.phoneNumbers.length > 0){
-            return data.phoneNumbers[0];
+            return data.phoneNumbers[0].value;
         }
     },
 
