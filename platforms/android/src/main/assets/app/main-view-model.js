@@ -3,7 +3,7 @@ var observable = require("data/observable");
 
 // define our model
 var model = new observable.Observable({
-    contact_name: "",
+    contactName: "",
     phone: ""
 });
 

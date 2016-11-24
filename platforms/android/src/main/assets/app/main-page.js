@@ -1,7 +1,7 @@
 (function(Executables) {
     
     var model = require("./main-view-model");
-    var getContact = require('./src/getContacts.js');
+    var getContacts = require('./src/getContacts.js');
     var getPermissions = require('./src/getPermissions.js');
     var sendMessage = require('./src/sendMessage.js');
 
@@ -15,8 +15,8 @@
         sendMessage();
     };
 
-    Executables.getContact = function() {
-        getContact();
+    Executables.getContacts = function() {
+        getContacts.init();
     };
 
 }(exports));
