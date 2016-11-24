@@ -3,7 +3,7 @@
 /Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/main-view-model.js
 /Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/src/getContacts.js
 /Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/src/getPermissions.js
-/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/src/sendMessage.js
+/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/src/sendMessages.js
 /Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/tests/getContacts.spec.js
 /Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/tests/getPermissions.spec.js
 /Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/tests/sendMessage.spec.js

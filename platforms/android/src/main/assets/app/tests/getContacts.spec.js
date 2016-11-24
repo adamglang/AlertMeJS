@@ -6,6 +6,7 @@ describe("getContacts", function() {
     beforeEach(function() {
         contacts = require('nativescript-contacts');
         model = require("../main-view-model");
+        model.contacts = [];
         getContacts = require('../src/getContacts.js');
 
         data = {
