@@ -12,11 +12,15 @@
     };
 
     Executables.sendMessage = function(){
-        sendMessages();
+        sendMessages.init();
     };
 
     Executables.getContacts = function() {
         getContacts.init();
+    };
+
+    Executables.removeContacts = function() {
+        getContacts.removeContacts();
     };
 
 }(exports));

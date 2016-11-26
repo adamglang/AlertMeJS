@@ -6,7 +6,7 @@ describe("getContacts", function() {
     beforeEach(function() {
         contacts = require('nativescript-contacts');
         model = require("../main-view-model");
-        model.contacts = [];
+        model.contacts = [{"contactName":"John Smith","contactPhone":"2069312099"}];
         getContacts = require('../src/getContacts.js');
 
         data = {
@@ -47,9 +47,14 @@ describe("getContacts", function() {
     describe("addContact", function() {
         it("adds a contact to the contacts array", function() {
             getContacts.addContact(data);
-            expect(JSON.stringify(model.contacts)).toBe("[{\"contactName\":\"John Smith\",\"contactPhone\":\"2069312099\"}]");
-            getContacts.addContact(data);
-            expect(JSON.stringify(model.contacts)).toBe("[{\"contactName\":\"John Smith\",\"contactPhone\":\"2069312099\"},{\"contactName\":\"John Smith\",\"contactPhone\":\"2069312099\"}]");
+            expect(model.contacts).toEqual([{contactName:"John Smith",contactPhone:"2069312099"},{contactName:"John Smith",contactPhone:"2069312099"}]);
+        });
+    });
+
+    describe("removeContacts", function() {
+        it("removes the contacts from the contacts array", function() {
+            getContacts.removeContacts(data);
+            expect(model.contacts.length > 0).toBe(false);
         });
     });
 

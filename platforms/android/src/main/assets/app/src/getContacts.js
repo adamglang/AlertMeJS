@@ -1,5 +1,6 @@
 var contacts = require('nativescript-contacts');
 var model = require("../main-view-model");
+var ObservableArray = require("data/observable-array").ObservableArray;
 
 var GetContacts = {
 
@@ -18,6 +19,10 @@ var GetContacts = {
             contactName: self.makeName(data),
             contactPhone: self.getPhoneNumber(data)
         });
+    },
+
+    removeContacts: function() {
+        model.contacts = new ObservableArray([]);
     },
 
     getPhoneNumber: function(data) {

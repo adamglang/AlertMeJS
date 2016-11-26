@@ -7,5 +7,6 @@
             </ListView.itemTemplate>
         </ListView>
         <Button text="SEND" class="btn" tap="sendMessage"/>
+        <Button text="REMOVE CONTACTS" class="btn" tap="removeContacts"/>
     </StackLayout>
 </Page>
