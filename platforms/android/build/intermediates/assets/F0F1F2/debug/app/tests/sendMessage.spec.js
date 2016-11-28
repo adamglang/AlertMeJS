@@ -1,24 +1,22 @@
 describe("sendMessage", function() {
     "use strict";
 
-    var sendMessages, model, sms;
+    var app, utils, context, contacts, sms, sendMessages;
 
     beforeEach(function() {
 
+        app = require("application");
+        utils = require("utils/utils");
+        context = utils.ad.getApplicationContext();
+        sms = android.telephony.SmsManager.getDefault();
         sendMessages = require('../src/sendMessages.js');
 
-        model = {
-            contacts: [
-                {contactName: "John Smith", contactPhone: "1111111111"},
-                {contactName: "Jane Smith", contactPhone: "2222222222"},
-                {contactName: "John Doe", contactPhone: "3333333333"},
-                {contactName: "Jane Doe", contactPhone: "4444444444"}
-            ]
-        };
-        
-        sms = {
-            sendTextMessage: function(phoneNumber, scAddress, message, sentIntent, deliveryIntent) {}
-        }
+        contacts = [
+            {contactName: "John Smith", contactPhone: "1111111111"},
+            {contactName: "Jane Smith", contactPhone: "2222222222"},
+            {contactName: "John Doe", contactPhone: "3333333333"},
+            {contactName: "Jane Doe", contactPhone: "4444444444"}
+        ]
 
     });
     
@@ -40,28 +38,58 @@ describe("sendMessage", function() {
             expect(sms.sendTextMessage()).toHaveBeenCalledWith("1111111111", null, "Hello", null, null);
         });
     });
-    
-    describe("constructPhoneNumberArray", function() {
+     */
+
+    describe("returnPhoneArray", function() {
         it("Creates an new array of phone numbers from the contacts array", function() {
-            expect(sendMessages.constructPhoneNumberArray(model.contacts)).toBe(["1111111111","2222222222","3333333333","4444444444"]); 
+            expect(sendMessages.returnPhoneArray(contacts)).toEqual(["1111111111","2222222222","3333333333","4444444444"]);
         });
     });
 
     describe("extractPhoneNumber", function() {
         it("extracts a phone number from the contacts object", function() {
-            expect(sendMessages.extractPhonenumber(model.contacts[1])).toBe("1111111111"); 
+            expect(sendMessages.extractPhoneNumber(contacts[0])).toBe("1111111111");
         });
     });
-    
-    */
+
     
     describe("pendingIntent", function() {
-        it("makes a js object which acts as a representation of android's pending intent data type", function() {
-            expect(typeof sendMessages.pendingIntent("someRandomString")).toBe("Object");
-            expect(sendMessages.pendingIntent("someRandomString").toString().indexOf("PendingIntent") > -1).toBe(true);
+        it("is a js object", function () {
+            expect(typeof sendMessages.pendingIntent("someRandomString")).toBe("object");
+        });
+        it("is a pending Intent object", function() {
+        expect(sendMessages.pendingIntent("someRandomString").toString().indexOf("PendingIntent") > -1).toBe(true);
+        });
+        it("is bound to the application context", function() {
             expect(sendMessages.pendingIntent("someRandomString").toString().indexOf("BinderProxy") > -1).toBe(true);
         });
     });
 
+    describe("makeRandomId", function() {
+        it("is a string", function() {
+            expect(typeof sendMessages.makeRandomId()).toBe("string");
+        });
+        it("is alphanumeric", function() {
+            var id = sendMessages.makeRandomId();
+            expect(id.replace(/\W/g, '')).toEqual(id);
+        });
+        it("is 5 chars", function() {
+            expect(sendMessages.makeRandomId().length).toBe(5);
+        });
+    });
+
+    //This works but only on a live device. Since it cant be used as automated testing I am commenting. It can be uncommented for manual testing
+    /*
+    describe("broadCastReceiver", function() {
+        it("responds to the pendingIntent event that is fired when a text has finished sending", function() {
+            var id = "alertme-messageSent"
+            var intent = new android.content.Intent(id);
+            var pendingIntent = android.app.PendingIntent.getBroadcast(context, 0, intent, 0);
+            spyOn(sendMessages, "broadcastReceiver");
+            sms.sendTextMessage("5555555555", null, "Sent", pendingIntent, null);
+            expect(sendMessages.broadcastReceiver).toHaveBeenCalled();
+        })
+    });
+    */
 
 });

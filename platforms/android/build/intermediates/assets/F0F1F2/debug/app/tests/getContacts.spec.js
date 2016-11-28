@@ -47,7 +47,7 @@ describe("getContacts", function() {
     describe("addContact", function() {
         it("adds a contact to the contacts array", function() {
             getContacts.addContact(data);
-            expect(JSON.stringify(model.contacts)).toBe("[{\"contactName\":\"John Smith\",\"contactPhone\":\"2069312099\"},{\"contactName\":\"John Smith\",\"contactPhone\":\"2069312099\"}]");
+            expect(model.contacts).toEqual([{contactName:"John Smith",contactPhone:"2069312099"},{contactName:"John Smith",contactPhone:"2069312099"}]);
         });
     });
 

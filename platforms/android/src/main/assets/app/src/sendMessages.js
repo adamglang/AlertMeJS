@@ -8,18 +8,28 @@ var model = require("../main-view-model");
 var SendMessages = {
 
     init: function() {
-            var id = "messageSent";
-            this.sendText(id, this.pendingIntent(id));
+            var id = this.makeRandomId();
+            this.sendAll(id, 0);
     },
 
-    sendText: function(id, pendingIntent) {
-        sms.sendTextMessage("2069312099", null, "Sent from alert me :)", pendingIntent, null);
-        this.broadcastReceiver(id, function() {
-            console.log("$$$$$ text sent $$$$$");
-        });
+    sendAll: function(id, counter) {
+        var phoneNumbers = this.returnPhoneArray(model.contacts);
+        var self = this;
+        if(counter < phoneNumbers.length) {
+            var uniqueId = id + counter;
+            self.sendText(self.pendingIntent(uniqueId), phoneNumbers[counter]);
+            self.broadcastReceiver((uniqueId), function () {
+                counter++;
+                self.sendAll(id, counter);
+            });
+        }
+    },
+
+    sendText: function(pendingIntent, phoneNumber) {
+        sms.sendTextMessage(phoneNumber, null, "this is a test", pendingIntent, null);
     },
     
-    returnPhoneNumberArray: function(contactsArray) {
+    returnPhoneArray: function(contactsArray) {
         var self = this;
         var phoneNumbersArray = [];
         contactsArray.forEach(function(contact) {
@@ -45,6 +55,16 @@ var SendMessages = {
         app.android.registerBroadcastReceiver(id, function() {
             callback();
         });
+    },
+
+    makeRandomId: function() {
+        var id = "";
+        var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+        for(var i = 0; i < 5; i++) {
+            id += chars.charAt(Math.floor(Math.random() * chars.length));
+        }
+        return id;
     }
 
 };
