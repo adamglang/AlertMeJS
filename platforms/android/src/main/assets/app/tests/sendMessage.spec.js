@@ -1,7 +1,7 @@
 describe("sendMessage", function() {
     "use strict";
 
-    var app, utils, context, contacts, sms, sendMessages;
+    var app, utils, context, contacts, sms, sendMessages, message;
 
     beforeEach(function() {
 
@@ -15,13 +15,12 @@ describe("sendMessage", function() {
             {contactName: "John Smith", contactPhone: "1111111111"},
             {contactName: "Jane Smith", contactPhone: "2222222222"},
             {contactName: "John Doe", contactPhone: "3333333333"},
-            {contactName: "Jane Doe", contactPhone: "4444444444"}
+            {contactName: "Jane Doe", contactPhone: "(444) 444-4444"}
         ]
 
     });
 
     /*
-
     describe("sendAll", function() {
         it("fires the SMS send service for each phone number in the phone numbers array", function() {
             spyOn(sendMessages, "sendSMS");
@@ -31,15 +30,14 @@ describe("sendMessage", function() {
             expect(sendMessages.sendSMS).toHaveBeenCalledWith("3333333333");
             expect(sendMessages.sendSMS).toHaveBeenCalledWith("4444444444");
         });
-
-
     });
      */
 
     describe("sendText", function() {
         it("calls to the android SMS service", function() {
+            message = "this is a test";
             spyOn(sms, "sendTextMessage");
-            sendMessages.sendText("PendingIntent","1111111111");
+            sendMessages.sendText("PendingIntent", message, "1111111111");
             expect(sms.sendTextMessage).toHaveBeenCalledWith("1111111111", null, "this is a test", "PendingIntent", null);
         });
     });
@@ -95,5 +93,8 @@ describe("sendMessage", function() {
         })
     });
     */
+
+
+
 
 });

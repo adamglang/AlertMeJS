@@ -1,9 +1,9 @@
 var app = require("application");
 var utils = require("utils/utils");
 var context = utils.ad.getApplicationContext();
-var sms = android.telephony.SmsManager.getDefault();
+var message = require("./constructMessage");
 var model = require("../main-view-model");
-
+var sms = android.telephony.SmsManager.getDefault();
 
 var SendMessages = {
 
@@ -17,7 +17,7 @@ var SendMessages = {
         var self = this;
         if(counter < phoneNumbers.length) {
             var uniqueId = id + counter;
-            self.sendText(self.pendingIntent(uniqueId), phoneNumbers[counter]);
+            self.sendText(self.pendingIntent(uniqueId), message.init(), phoneNumbers[counter]);
             self.broadcastReceiver((uniqueId), function () {
                 counter++;
                 self.sendAll(id, counter);
@@ -25,8 +25,8 @@ var SendMessages = {
         }
     },
 
-    sendText: function(pendingIntent, phoneNumber) {
-        sms.sendTextMessage(phoneNumber, null, "this is a test", pendingIntent, null);
+    sendText: function(pendingIntent, message, phoneNumber) {
+        sms.sendTextMessage(phoneNumber, null, message, pendingIntent, null);
     },
     
     returnPhoneArray: function(contactsArray) {
@@ -41,7 +41,7 @@ var SendMessages = {
     extractPhoneNumber: function(contact) {
         for(var key in contact) {
             if(key === "contactPhone") {
-                return contact[key];
+                return contact[key].replace(/[^0-9.]/g, "");
             }
         }
     },

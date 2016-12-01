@@ -14,8 +14,10 @@
   },
   "dependencies": {
     "nativescript-contacts": "^1.5.0",
+    "nativescript-geolocation": "0.0.15",
     "nativescript-messenger": "^1.2.0",
     "nativescript-permissions": "^1.2.1",
+    "nativescript-toast": "^1.4.3",
     "nativescript-unit-test-runner": "^0.3.4",
     "tns-core-modules": "2.3.0"
   },

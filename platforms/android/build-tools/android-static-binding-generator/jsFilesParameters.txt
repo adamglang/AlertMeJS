@@ -1,1 +1,1 @@
-/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/src/sendMessages.js
+/Users/langa/Dropbox/Projects/AlertMeJS/platforms/android/src/main/assets/app/main-page.js

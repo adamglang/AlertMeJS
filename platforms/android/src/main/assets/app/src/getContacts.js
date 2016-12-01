@@ -1,4 +1,4 @@
-var contacts = require('nativescript-contacts');
+var contacts = require("nativescript-contacts");
 var model = require("../main-view-model");
 var ObservableArray = require("data/observable-array").ObservableArray;
 
