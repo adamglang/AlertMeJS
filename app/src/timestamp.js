@@ -2,11 +2,11 @@ var model = require("../main-view-model");
 var Toast = require("nativescript-toast");
 
 var Timestamp = {
-    
+
     timestampEnabled: false,
 
     returnTimestamp: function() {
-        return model.switches.timestamp ? new Date() : "";
+        return model.switches.timestamp ? "timestamp: " + new Date() : "";
     },
 
     toggleTimestamp: function() {

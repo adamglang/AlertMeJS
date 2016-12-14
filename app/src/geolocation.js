@@ -1,7 +1,7 @@
 var model = require("../main-view-model");
-var geoLocation = require("nativescript-geolocation");
 var permissions = require('nativescript-permissions');
 var Toast = require("nativescript-toast");
+var constructMessage = require("./constructMessage");
 
 var GeoLocation = {
 
@@ -25,6 +25,10 @@ var GeoLocation = {
         else {
             Toast.makeText("Geo Location services deactivated").show();
         }
+    },
+
+    getCoordinates: function(location) {
+        return model.switches.geoLocation ? "latitude: " + location.latitude + " longitude:" + location.longitude : "";
     }
 };
 

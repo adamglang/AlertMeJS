@@ -12,6 +12,7 @@ var GeoLocation = {
             this.toggleGeoLocation();
         }
         this.geoLocationEnabled = true;
+        this.getCoordinates();
     },
 
     toggleGeoLocation: function() {
@@ -25,7 +26,18 @@ var GeoLocation = {
         else {
             Toast.makeText("Geo Location services deactivated").show();
         }
+    },
+
+    getCoordinates: function() {
+        return geoLocation.getCurrentLocation().then(function(location) {
+            return " latitude: " + location.latitude + " longitude:" + location.longitude
+        });
+    },
+
+    returnGeoLocation: function() {
+       return model.switches.geoLocation ? this.getCoordinates() : "";
     }
+
 };
 
 module.exports = GeoLocation;

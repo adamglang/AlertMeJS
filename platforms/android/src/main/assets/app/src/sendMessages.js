@@ -1,5 +1,6 @@
 var app = require("application");
 var utils = require("utils/utils");
+var geoLocation = require("nativescript-geolocation");
 var context = utils.ad.getApplicationContext();
 var message = require("./constructMessage");
 var model = require("../main-view-model");
@@ -8,19 +9,24 @@ var sms = android.telephony.SmsManager.getDefault();
 var SendMessages = {
 
     init: function() {
-            var id = this.makeRandomId();
-            this.sendAll(id, 0);
+        var self = this;
+        var id = this.makeRandomId();
+        geoLocation.getCurrentLocation().then(function(location) {
+            self.sendAll(id, 0, location);
+        }).catch(function(e) {
+            console.log(e.stack)
+        })
     },
 
-    sendAll: function(id, counter) {
+    sendAll: function(id, counter, location) {
         var phoneNumbers = this.returnPhoneArray(model.contacts);
         var self = this;
         if(counter < phoneNumbers.length) {
             var uniqueId = id + counter;
-            self.sendText(self.pendingIntent(uniqueId), message.init(), phoneNumbers[counter]);
+            self.sendText(self.pendingIntent(uniqueId), message.init(location), phoneNumbers[counter]);
             self.broadcastReceiver((uniqueId), function () {
                 counter++;
-                self.sendAll(id, counter);
+                self.sendAll(id, counter, location);
             });
         }
     },
