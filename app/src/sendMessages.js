@@ -1,10 +1,11 @@
-const app = require("application");
-const utils = require("utils/utils");
-const geoLocation = require("nativescript-geolocation");
-const context = utils.ad.getApplicationContext();
-const message = require("./constructMessage");
-const model = require("../main-view-model");
-const sms = android.telephony.SmsManager.getDefault();
+const app = require("application"),
+    utils = require("utils/utils"),
+    geoLocation = require("nativescript-geolocation"),
+    context = utils.ad.getApplicationContext(),
+    message = require("./constructMessage"),
+    model = require("../main-view-model"),
+    sms = android.telephony.SmsManager.getDefault(),
+    Toast = require("nativescript-toast");
 
 let SendMessages = {
 
@@ -32,6 +33,9 @@ let SendMessages = {
                 counter++;
                 self.sendAll(id, counter, location);
             });
+        }
+        else {
+            Toast.makeText("All alerts have been sent").show();
         }
     },
 

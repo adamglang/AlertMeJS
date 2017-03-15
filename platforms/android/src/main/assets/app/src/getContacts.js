@@ -1,6 +1,6 @@
-const contacts = require("nativescript-contacts");
-const model = require("../main-view-model");
-const ObservableArray = require("data/observable-array").ObservableArray;
+const contacts = require("nativescript-contacts"),
+    model = require("../main-view-model"),
+    ObservableArray = require("data/observable-array").ObservableArray;
 
 let GetContacts = {
 

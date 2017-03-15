@@ -1,7 +1,7 @@
-const model = require("../main-view-model");
-const permissions = require('nativescript-permissions');
-const Toast = require("nativescript-toast");
-const constructMessage = require("./constructMessage");
+const model = require("../main-view-model"),
+    permissions = require('nativescript-permissions'),
+    Toast = require("nativescript-toast"),
+    constructMessage = require("./constructMessage");
 
 let GeoLocation = {
 

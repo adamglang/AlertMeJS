@@ -1,5 +1,5 @@
-const model = require("../main-view-model");
-const Toast = require("nativescript-toast");
+const model = require("../main-view-model"),
+    Toast = require("nativescript-toast");
 
 let Timestamp = {
 

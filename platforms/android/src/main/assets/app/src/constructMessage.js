@@ -1,8 +1,8 @@
-var model = require("../main-view-model");
-var timestamp = require("./timestamp");
-var geolocation = require("./geolocation");
+const model = require("../main-view-model"),
+    timestamp = require("./timestamp"),
+    geolocation = require("./geolocation");
 
-var Message = {
+let Message = {
 
     init: function(location) {
         return "This is a test from AlertMe " + timestamp.returnTimestamp() + " " + geolocation.getCoordinates(location);
