@@ -1,26 +1,36 @@
-var app = require("application");
-var utils = require("utils/utils");
-var context = utils.ad.getApplicationContext();
-var message = require("./constructMessage");
-var model = require("../main-view-model");
-var sms = android.telephony.SmsManager.getDefault();
+const app = require("application");
+const utils = require("utils/utils");
+const geoLocation = require("nativescript-geolocation");
+const context = utils.ad.getApplicationContext();
+const message = require("./constructMessage");
+const model = require("../main-view-model");
+const sms = android.telephony.SmsManager.getDefault();
 
-var SendMessages = {
+const SendMessages = {
 
     init: function() {
-            var id = this.makeRandomId();
-            this.sendAll(id, 0);
+        let id = this.makeRandomId();
+        model.switches.geoLocation ? this.sendWithGeolocation(id) : this.sendAll(id, 0);
     },
 
-    sendAll: function(id, counter) {
-        var phoneNumbers = this.returnPhoneArray(model.contacts);
-        var self = this;
+    sendWithGeolocation: function(id) {
+        let self = this;
+        geoLocation.getCurrentLocation().then((location) => {
+            self.sendAll(id, 0, location);
+        }).catch(function(e) {
+            console.log(e.stack);
+        })
+    },
+
+    sendAll: function(id, counter, location) {
+        let self = this;
+        let phoneNumbers = this.returnPhoneArray(model.contacts);
         if(counter < phoneNumbers.length) {
-            var uniqueId = id + counter;
-            self.sendText(self.pendingIntent(uniqueId), message.init(), phoneNumbers[counter]);
-            self.broadcastReceiver((uniqueId), function () {
+            let uniqueId = id + counter;
+            self.sendText(self.pendingIntent(uniqueId), message.init(location), phoneNumbers[counter]);
+            self.broadcastReceiver((uniqueId), () => {
                 counter++;
-                self.sendAll(id, counter);
+                self.sendAll(id, counter, location);
             });
         }
     },
@@ -28,18 +38,18 @@ var SendMessages = {
     sendText: function(pendingIntent, message, phoneNumber) {
         sms.sendTextMessage(phoneNumber, null, message, pendingIntent, null);
     },
-    
+
     returnPhoneArray: function(contactsArray) {
-        var self = this;
-        var phoneNumbersArray = [];
-        contactsArray.forEach(function(contact) {
+        let self = this;
+        let phoneNumbersArray = [];
+        for(let contact of contactsArray) {
             phoneNumbersArray.push(self.extractPhoneNumber(contact));
-        });
+        }
         return phoneNumbersArray;
     },
 
     extractPhoneNumber: function(contact) {
-        for(var key in contact) {
+        for(let key in contact) {
             if(key === "contactPhone") {
                 return contact[key].replace(/[^0-9.]/g, "");
             }
@@ -47,7 +57,7 @@ var SendMessages = {
     },
 
     pendingIntent: function(id) {
-        var intent = new android.content.Intent(id);
+        let intent = new android.content.Intent(id);
         return android.app.PendingIntent.getBroadcast(context, 0, intent, 0);
     },
 
@@ -58,10 +68,9 @@ var SendMessages = {
     },
 
     makeRandomId: function() {
-        var id = "";
-        var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-
-        for(var i = 0; i < 5; i++) {
+        let id = "";
+        let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+        for(let i = 0; i < 5; i++) {
             id += chars.charAt(Math.floor(Math.random() * chars.length));
         }
         return id;

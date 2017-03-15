@@ -1,7 +1,7 @@
 describe("getContacts", function() {
     "use strict";
 
-    var contacts, model, getContacts, data;
+    let contacts, model, getContacts, data;
 
     beforeEach(function() {
         contacts = require('nativescript-contacts');
@@ -44,33 +44,33 @@ describe("getContacts", function() {
 
     });
 
-    describe("addContact", function() {
-        it("adds a contact to the contacts array", function() {
+    describe("addContact", () => {
+        it("adds a contact to the contacts array", () => {
             getContacts.addContact(data);
             expect(model.contacts).toEqual([{contactName:"John Smith",contactPhone:"2069312099"},{contactName:"John Smith",contactPhone:"2069312099"}]);
         });
     });
 
-    describe("removeContacts", function() {
-        it("removes the contacts from the contacts array", function() {
+    describe("removeContacts", () => {
+        it("removes the contacts from the contacts array", () => {
             getContacts.removeContacts(data);
             expect(model.contacts.length > 0).toBe(false);
         });
     });
 
-    describe("makeName", function() {
-        it("Sets the display name as contact name if display name is a string with length", function() {
+    describe("makeName", () => {
+        it("Sets the display name as contact name if display name is a string with length", () => {
             expect(getContacts.makeName(data)).toBe("John Smith");
         });
 
-        it("Constructs the contact name from: \"prefix\", \"given\", \"middle\", \"family\", and \"suffix\" properties if \"displayname\" is not available", function() {
+        it("Constructs the contact name from: \"prefix\", \"given\", \"middle\", \"family\", and \"suffix\" properties if \"displayname\" is not available", () => {
             data.name.displayname = null;
             expect(getContacts.makeName(data)).toBe("Mr. John Peter Smith Jr. ");
         });
     });
 
-    describe("getPhoneNumber", function() {
-        it("gets the first phone number in the returned array", function() {
+    describe("getPhoneNumber", () => {
+        it("gets the first phone number in the returned array", () => {
             expect(getContacts.getPhoneNumber(data)).toBe("2069312099");
         });
     });

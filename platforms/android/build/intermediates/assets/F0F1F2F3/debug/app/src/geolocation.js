@@ -1,7 +1,7 @@
 var model = require("../main-view-model");
-var geoLocation = require("nativescript-geolocation");
 var permissions = require('nativescript-permissions');
 var Toast = require("nativescript-toast");
+var constructMessage = require("./constructMessage");
 
 var GeoLocation = {
 
@@ -12,7 +12,6 @@ var GeoLocation = {
             this.toggleGeoLocation();
         }
         this.geoLocationEnabled = true;
-        this.getCoordinates();
     },
 
     toggleGeoLocation: function() {
@@ -28,16 +27,9 @@ var GeoLocation = {
         }
     },
 
-    getCoordinates: function() {
-        return geoLocation.getCurrentLocation().then(function(location) {
-            return " latitude: " + location.latitude + " longitude:" + location.longitude
-        });
-    },
-
-    returnGeoLocation: function() {
-       return model.switches.geoLocation ? this.getCoordinates() : "";
+    getCoordinates: function(location) {
+        return model.switches.geoLocation ? "from location: https://www.google.com/maps/?q=" + location.latitude + "," + location.longitude : "";
     }
-
 };
 
 module.exports = GeoLocation;

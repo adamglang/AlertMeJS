@@ -2,14 +2,151 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0131c181-e91b-4938-8bed-e32734044fb5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/tests/constructMessage.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/constructMessage.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/constructMessage.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/AlertMeJS_node_modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIImage+TNSBlocks.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Modules/module.modulemap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/TNSWidgets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/app.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-hdpi/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-hdpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-ldpi/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-ldpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-ldpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-mdpi/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-mdpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xhdpi/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xhdpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xxhdpi/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xxhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xxhdpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xxxhdpi/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xxxhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/drawable-xxxhdpi/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/values-v21/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/values-v21/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/Android/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-60@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-60@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-76@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-83.5@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-736h@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/App_Resources/iOS/build.xcconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/metadata/treeNodeStream.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/metadata/treeStringsStream.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/metadata/treeValueStream.dat" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/background.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/logo.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/background.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/logo.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/background.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/logo.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/background.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/logo.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/background.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/logo.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/background.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/icon.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/logo.png" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$anim.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$attr.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$bool.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$integer.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$string.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$style.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$styleable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/design/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/appcompat/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$attr.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/android/support/v7/recyclerview/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/com/tns/ErrorReportActivity.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/com/tns/ErrorReportActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$anim.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$attr.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$bool.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$color.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$dimen.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$drawable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$id.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$integer.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$layout.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$string.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$style.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$styleable.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R.class" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/classes/F0F1F2F3/debug/org/nativescript/AlertMeJS/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/AlertMeJS-runtime-unspecified_107d798e8571d05f959dc5c64fac79e36be58099.jar" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/AlertMeJS-runtime-unspecified_107d798e8571d05f959dc5c64fac79e36be58099.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/binding-generator_cef41eed108837292ad2aff7db96e6da76dee327.jar" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/binding-generator_cef41eed108837292ad2aff7db96e6da76dee327.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-animated-vector-drawable-24.2.1_94a03fb2d696d61e5821c51fcc08e396ba75654c.jar" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/com.android.support-animated-vector-drawable-24.2.1_94a03fb2d696d61e5821c51fcc08e396ba75654c.jar" />
@@ -31,39 +168,274 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-24.2.1_61c1cb4c077d281b1ee8e9a3c6676f87be3af54b.jar" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-24.2.1_61c1cb4c077d281b1ee8e9a3c6676f87be3af54b.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-24.2.1_c4aac47efe0515594b83127bcc7dc94b7e41dc48.jar" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/internal_impl-24.2.1_c4aac47efe0515594b83127bcc7dc94b7e41dc48.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/support-annotations-24.2.1_58bfa4702b67d037eb624d7d70ef1931915cb2a8.jar" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/F0F1F2F3/debug/support-annotations-24.2.1_58bfa4702b67d037eb624d7d70ef1931915cb2a8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/background.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/icon.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/logo.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-hdpi-v4/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/background.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/icon.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/logo.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldpi-v4/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/background.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/icon.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/logo.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-mdpi-v4/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/background.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/icon.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/logo.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi-v4/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/background.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/icon.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/logo.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxhdpi-v4/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/background.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/icon.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/logo.png" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xxxhdpi-v4/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/resources-F0-F1-F2-F3-debug.ap_" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/resources-F0-F1-F2-F3-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/transforms/dex/F0F1F2F3/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/transforms/dex/F0F1F2F3/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/nativescript-bindings/com.tns.FragmentClass.dex" afterPath="$PROJECT_DIR$/platforms/android/build/nativescript-bindings/com.tns.FragmentClass.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/nativescript-bindings/com.tns.NativeScriptActivity.dex" afterPath="$PROJECT_DIR$/platforms/android/build/nativescript-bindings/com.tns.NativeScriptActivity.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/outputs/apk/AlertMeJS-debug-unaligned.apk" afterPath="$PROJECT_DIR$/platforms/android/build/outputs/apk/AlertMeJS-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/outputs/apk/AlertMeJS-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/build/outputs/apk/AlertMeJS-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-hdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-hdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-hdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-hdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-ldpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-ldpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-ldpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-ldpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-mdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-mdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-mdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-mdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xhdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xhdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxhdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxhdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxxhdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxxhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxxhdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-xxxhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50@2x.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57@2x.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72@2x.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/metadata/treeNodeStream.dat" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/metadata/treeNodeStream.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/metadata/treeStringsStream.dat" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/metadata/treeStringsStream.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/metadata/treeValueStream.dat" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/metadata/treeValueStream.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-hdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-hdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-hdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-hdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-ldpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-ldpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-ldpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-ldpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-mdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-mdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-mdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-mdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xhdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xhdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxhdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxhdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxxhdpi/background.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxxhdpi/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxxhdpi/logo.png" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-xxxhdpi/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AlertMeJS.iml" afterPath="$PROJECT_DIR$/.idea/AlertMeJS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/app.gradle" afterPath="$PROJECT_DIR$/app/App_Resources/Android/app.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/main-page.js" afterPath="$PROJECT_DIR$/app/main-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/main-page.xml" afterPath="$PROJECT_DIR$/app/main-page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/main-view-model.js" afterPath="$PROJECT_DIR$/app/main-view-model.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/constructMessage.js" afterPath="$PROJECT_DIR$/app/src/constructMessage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/geolocation.js" afterPath="$PROJECT_DIR$/app/src/geolocation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/getContacts.js" afterPath="$PROJECT_DIR$/app/src/getContacts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/getPermissions.js" afterPath="$PROJECT_DIR$/app/src/getPermissions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/sendMessages.js" afterPath="$PROJECT_DIR$/app/src/sendMessages.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/timestamp.js" afterPath="$PROJECT_DIR$/app/src/timestamp.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/geolocation.spec.js" afterPath="$PROJECT_DIR$/app/tests/geolocation.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/getContacts.spec.js" afterPath="$PROJECT_DIR$/app/tests/getContacts.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/getPermissions.spec.js" afterPath="$PROJECT_DIR$/app/tests/getPermissions.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/sendMessage.spec.js" afterPath="$PROJECT_DIR$/app/tests/sendMessage.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/timestamp.spec.js" afterPath="$PROJECT_DIR$/app/tests/timestamp.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-unit-test-runner/config.js" afterPath="$PROJECT_DIR$/node_modules/nativescript-unit-test-runner/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.10/taskArtifacts/cache.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/android/.nsprepareinfo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/bindings.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/bindings.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/cached.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/cached.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/interfaces-names.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/interfaces-names.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/main-page.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/main-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/main-page.xml" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/main-page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/main-view-model.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/main-view-model.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/constructMessage.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/constructMessage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/geolocation.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/geolocation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/getPermissions.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/getPermissions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/sendMessages.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/sendMessages.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/timestamp.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/src/timestamp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/geolocation.spec.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/geolocation.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/sendMessage.spec.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/sendMessage.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/timestamp.spec.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/timestamp.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tns_modules/nativescript-unit-test-runner/config.js" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tns_modules/nativescript-unit-test-runner/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/blame/res/F0F1F2F3/debug/single/anim.json" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/blame/res/F0F1F2F3/debug/single/anim.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/blame/res/F0F1F2F3/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/blame/res/F0F1F2F3/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/blame/res/F0F1F2F3/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/blame/res/F0F1F2F3/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/incremental/mergeF0F1F2F3DebugAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/incremental/mergeF0F1F2F3DebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-nodpi-v4/splash_screen.xml" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/res/merged/F0F1F2F3/debug/drawable-nodpi-v4/splash_screen.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build/outputs/apk/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/android/build/outputs/apk/.nsbuildinfo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/app.gradle" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/app.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.xml" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-view-model.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-view-model.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/constructMessage.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/constructMessage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/geolocation.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/geolocation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/getPermissions.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/getPermissions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/sendMessages.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/sendMessages.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/timestamp.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/src/timestamp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/geolocation.spec.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/geolocation.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/sendMessage.spec.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/sendMessage.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/timestamp.spec.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/timestamp.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tns_modules/nativescript-unit-test-runner/config.js" afterPath="$PROJECT_DIR$/platforms/android/src/main/assets/app/tns_modules/nativescript-unit-test-runner/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/app.gradle" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/app.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml" afterPath="$PROJECT_DIR$/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml" />
     </list>
     <ignored path="AlertMeJS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,98 +446,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="AlertMeJS" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57152927">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main-page.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/main-page.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main-page.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/main-page.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sendMessages.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/src/sendMessages.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="timestamp.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/timestamp.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="geolocation.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/geolocation.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="constructMessage.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/constructMessage.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="geolocation.spec.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/tests/geolocation.spec.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sendMessages.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/sendMessages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geolocation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/geolocation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cruncherEnabled</find>
+      <find>aaptOptions</find>
+      <find>cont</find>
+      <find>function()</find>
+      <find>let</find>
+      <find>var</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>() =&gt;</replace>
+      <replace>let</replace>
+      <replace>const</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,47 +525,72 @@
         <option value="$PROJECT_DIR$/app/tests/grantPermissions.spec.js" />
         <option value="$PROJECT_DIR$/app/src/grantPermissions.js" />
         <option value="$PROJECT_DIR$/app/src/sendMessage.js" />
-        <option value="$PROJECT_DIR$/app/tests/getPermissions.spec.js" />
         <option value="$PROJECT_DIR$/app/src/GetContacts.js" />
         <option value="$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js" />
-        <option value="$PROJECT_DIR$/app/tests/getContacts.spec.js" />
         <option value="$PROJECT_DIR$/app/src/constructMessage.spec.js" />
-        <option value="$PROJECT_DIR$/app/tests/sendMessage.spec.js" />
         <option value="$PROJECT_DIR$/app/App_Resources/Android/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/getContacts.js" />
-        <option value="$PROJECT_DIR$/app/main-view-model.js" />
-        <option value="$PROJECT_DIR$/app/main-page.xml" />
         <option value="$PROJECT_DIR$/app/tests/constructMessage.spec.js" />
-        <option value="$PROJECT_DIR$/app/tests/geolocation.spec.js" />
-        <option value="$PROJECT_DIR$/app/tests/timestamp.spec.js" />
-        <option value="$PROJECT_DIR$/app/src/timestamp.js" />
-        <option value="$PROJECT_DIR$/app/main-page.js" />
         <option value="$USER_HOME$/hydra/Core/Hydra/trunk/products/hydra-base/base/domain/inventory/adapters/vehicle/base.domain.inventory.physicalVehicle.js" />
+        <option value="$PROJECT_DIR$/app/main-page.xml" />
+        <option value="$PROJECT_DIR$/app/App_Resources/Android/app.gradle" />
+        <option value="$PROJECT_DIR$/app/App_Resources/Android/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/main-page.js" />
+        <option value="$USER_HOME$/scratchPad.js" />
         <option value="$PROJECT_DIR$/app/src/constructMessage.js" />
-        <option value="$PROJECT_DIR$/app/src/geolocation.js" />
         <option value="$PROJECT_DIR$/app/src/sendMessages.js" />
+        <option value="$PROJECT_DIR$/app/src/viewBehaviors.js" />
+        <option value="$PROJECT_DIR$/app/main-view-model.js" />
+        <option value="$PROJECT_DIR$/app/tests/timestamp.spec.js" />
+        <option value="$PROJECT_DIR$/app/tests/sendMessage.spec.js" />
+        <option value="$PROJECT_DIR$/app/tests/getPermissions.spec.js" />
+        <option value="$PROJECT_DIR$/app/tests/getContacts.spec.js" />
+        <option value="$PROJECT_DIR$/app/tests/geolocation.spec.js" />
+        <option value="$PROJECT_DIR$/app/src/timestamp.js" />
+        <option value="$PROJECT_DIR$/app/src/getPermissions.js" />
+        <option value="$PROJECT_DIR$/app/src/getContacts.js" />
+        <option value="$PROJECT_DIR$/app/src/geolocation.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1200" />
+    <option name="height" value="1897" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -238,6 +607,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,22 +615,78 @@
               <option name="myItemId" value="AlertMeJS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlertMeJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/v0.10.26/bin/node" />
-    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/v0.10.26/bin/node" />
-    <property name="FullScreen" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -268,19 +694,8 @@
       <recent name="$PROJECT_DIR$/app678]9o0[uyhrfoy-[7u[-u]t\" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main-page.js">
+  <component name="RunManager">
     <configuration default="false" name="main-page.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="main-page.js" working-dir="$PROJECT_DIR$/app">
-      <method />
-    </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -290,6 +705,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -317,7 +738,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -329,7 +750,7 @@
       <working-directory />
       <pass-parent-env>true</pass-parent-env>
       <envs />
-      <ui>bdd</ui>
+      <ui />
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
       <test-directory />
@@ -339,11 +760,6 @@
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Node.js.main-page.js" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.main-page.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -385,12 +801,37 @@
       <workItem from="1480749265177" duration="2738000" />
       <workItem from="1481346302724" duration="3921000" />
       <workItem from="1481608879247" duration="4977000" />
-      <workItem from="1481674172186" duration="8735000" />
+      <workItem from="1481674172186" duration="9756000" />
+      <workItem from="1481838181154" duration="12368000" />
+      <workItem from="1481881234473" duration="3272000" />
+      <workItem from="1482301492136" duration="1306000" />
+      <workItem from="1482325458616" duration="1051000" />
+      <workItem from="1483007266627" duration="155000" />
+      <workItem from="1483263685330" duration="460000" />
+      <workItem from="1483462956315" duration="190000" />
+      <workItem from="1484344462870" duration="1853000" />
+      <workItem from="1485068653267" duration="1550000" />
+      <workItem from="1485151450071" duration="460000" />
+      <workItem from="1485543922453" duration="763000" />
+      <workItem from="1485643604289" duration="5365000" />
+      <workItem from="1485823200089" duration="889000" />
+      <workItem from="1486841344846" duration="2361000" />
+      <workItem from="1488784508367" duration="41000" />
+      <workItem from="1488784570746" duration="103000" />
+      <workItem from="1488784690136" duration="839000" />
+      <workItem from="1488785573753" duration="703000" />
+      <workItem from="1488786314406" duration="1846000" />
+      <workItem from="1488791734494" duration="3565000" />
+      <workItem from="1489037808830" duration="851000" />
+      <workItem from="1489191552225" duration="604000" />
+      <workItem from="1489196169879" duration="1580000" />
+      <workItem from="1489462916267" duration="3177000" />
+      <workItem from="1489546473155" duration="1910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149962000" />
+    <option name="totallyTimeSpent" value="198245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,26 +843,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1200" height="1897" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33385992" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" x="643" y="81" width="634" height="937" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33418152" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" x="643" y="81" width="634" height="937" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17537314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="680" y="430" width="488" height="238" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="680" y="430" width="488" height="238" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282743" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -440,326 +901,187 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/platforms/android/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1109">
-          <caret line="121" column="24" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/example.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1667">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/bin/karma">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/context/karma.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1427">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma-nativescript-launcher/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-761">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma-nativescript-launcher/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma-nativescript-launcher/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-827">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/socket.io.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/package.json" />
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="1142" column="23" selection-start-line="1142" selection-start-column="23" selection-end-line="1142" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma-jasmine/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/karma-jasmine/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/MANIFEST.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/karma/node_modules/socket.io/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/karma/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/karma-jasmine/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/karma-jasmine/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/MANIFEST.in" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/bower.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine-core/package.json" />
     <entry file="file://$PROJECT_DIR$/app/tests/grantPermissions.spec.js" />
     <entry file="file://$PROJECT_DIR$/app/src/grantPermissions.js" />
-    <entry file="file://$USER_HOME$/hydra/Core/Hydra/trunk/products/hydra-base/base/domain/lexus/adapters/base.domain.lexus.currentoffers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/hydra/Core/Hydra/trunk/products/hydra-base/base/domain/lexus/adapters/base.domain.lexus.currentoffers.js" />
     <entry file="file://$PROJECT_DIR$/app/src/sendMessage.js" />
-    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js" />
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/sendMessage.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="74" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/getPermissions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/getContacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/main-page.js" />
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/sendMessage.spec.js" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/AndroidManifest.xml" />
     <entry file="file://$PROJECT_DIR$/app/tests/constructMessage.spec.js" />
-    <entry file="file://$PROJECT_DIR$/app/tests/getPermissions.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/geolocation.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/geolocation.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/main-view-model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/timestamp.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/sendMessage.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/arm.spec.js">
+    <entry file="file://$PROJECT_DIR$/platforms/android/build/intermediates/assets/F0F1F2F3/debug/app/tests/geolocation.spec.js" />
+    <entry file="file://$PROJECT_DIR$/platforms/android/src/main/assets/app/tests/geolocation.spec.js" />
+    <entry file="file://$USER_HOME$/hydra/Core/Hydra/trunk/products/hydra-base/base/domain/inventory/adapters/vehicle/base.domain.inventory.physicalVehicle.js" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/logo.png" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/icon.png" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/background.png" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/logo.png" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/icon.png" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/background.png" />
+    <entry file="file://$PROJECT_DIR$/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/getContacts.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="49" column="62" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/geolocation.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/main-page.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="585">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/values/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/app.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" />
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/Android/values/colors.xml" />
+    <entry file="file://$USER_HOME$/scratchPad.js" />
     <entry file="file://$PROJECT_DIR$/app/main-page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/hydra/Core/Hydra/trunk/products/hydra-base/base/domain/inventory/adapters/vehicle/base.domain.inventory.physicalVehicle.js">
+    <entry file="file://$PROJECT_DIR$/app/src/viewBehaviors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="215" column="98" selection-start-line="215" selection-start-column="98" selection-end-line="215" selection-end-column="98" />
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main-view-model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/constructMessage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/geolocation.js">
+    <entry file="file://$PROJECT_DIR$/app/tests/timestamp.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/sendMessage.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/getPermissions.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/getContacts.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/geolocation.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/arm.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/timestamp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/getPermissions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/getContacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/geolocation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/sendMessages.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="780">
+          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
           <folding />
         </state>
       </provider>

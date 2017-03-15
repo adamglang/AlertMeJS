@@ -1,15 +1,15 @@
 describe("geoLocation", function() {
     "use strict";
 
-    var app, geolocation, geoLocation, permissions, model, android;
+    let app, geolocation, geoLocation, permissions, model, android;
 
-    beforeEach(function() {
+    beforeEach(() => {
 
         app = require("application");
         geolocation = require("nativescript-geolocation");
         geoLocation = require('../src/geolocation.js');
         permissions = {
-            requestPermission: function(){}
+            requestPermission: () =>{}
         };
 
         model = {
@@ -29,7 +29,7 @@ describe("geoLocation", function() {
 
     });
 
-    describe("toggleGeoLocation", function() {
+    describe("toggleGeoLocation", () => {
         
     });
 

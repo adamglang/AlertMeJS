@@ -1,11 +1,11 @@
-var contacts = require("nativescript-contacts");
-var model = require("../main-view-model");
-var ObservableArray = require("data/observable-array").ObservableArray;
+const contacts = require("nativescript-contacts");
+const model = require("../main-view-model");
+const ObservableArray = require("data/observable-array").ObservableArray;
 
-var GetContacts = {
+let GetContacts = {
 
     init: function() {
-        var self = this;
+        let self = this;
         contacts.getContact().then(function(args){
             self.addContact(args.data);
         }).catch(function(e) {
@@ -14,7 +14,7 @@ var GetContacts = {
     },
 
     addContact: function(data) {
-        var self = this;
+        let self = this;
         model.contacts.push({
             contactName: self.makeName(data),
             contactPhone: self.getPhoneNumber(data)
@@ -36,8 +36,8 @@ var GetContacts = {
             return data.name.displayname;
         }
         else {
-            var name = "";
-            var nameObj = {
+            let name = "";
+            let nameObj = {
                 prefix: data.name.prefix,
                 given: data.name.given,
                 middle: data.name.middle,
@@ -45,7 +45,7 @@ var GetContacts = {
                 suffix: data.name.suffix
             };
 
-            for(var key in nameObj) {
+            for(let key in nameObj) {
                 if(typeof nameObj[key] === "string") {
                     name += nameObj[key] + " ";
                 }

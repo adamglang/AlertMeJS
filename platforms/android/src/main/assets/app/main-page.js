@@ -1,39 +1,41 @@
-(function(Executables) {
-    
-    var model = require("./main-view-model");
-    var getContacts = require('./src/getContacts');
-    var getPermissions = require('./src/getPermissions');
-    var sendMessages = require('./src/sendMessages');
-    var geoLocation = require('./src/geolocation');
-    var constructMessage = require('./src/constructMessage');
-    var timestamp = require('./src/timestamp');
+var model = require("./main-view-model");
+var getContacts = require("./src/getContacts");
+var getPermissions = require("./src/getPermissions");
+var sendMessages = require("./src/sendMessages");
+var geoLocation = require("./src/geolocation");
+var constructMessage = require("./src/constructMessage");
+var timestamp = require("./src/timestamp");
+var viewBehaviors = require("./src/viewBehaviors");
 
-    Executables.pageLoaded = function(args) {
-        var page = args.object;
-        page.bindingContext = model;
-        getPermissions();
-    };
-    
-    Executables.toggleGeoLocation = function() {
+var Executables = {
+
+    pageLoaded: function(args) {
+        args.object.bindingContext = model;
+        getPermissions.init();
+        viewBehaviors.pageLoaded(args);
+        constructMessage.getMessageTextFieldContent();
+    },
+
+    toggleGeoLocation: function() {
         geoLocation.init();
-    };
-    
-    Executables.toggleTimestamp = function() {
+    },
+
+    toggleTimestamp: function() {
         timestamp.toggleTimestamp();
-    };
-    
+    },
 
-    Executables.sendMessage = function(){
+    sendMessage: function() {
         sendMessages.init();
-    };
+    },
 
-    Executables.getContacts = function() {
+    getContacts: function() {
         getContacts.init();
-    };
+    },
 
-    Executables.removeContacts = function() {
+    removeContacts: function() {
         getContacts.removeContacts();
-    };
+    }
+};
 
-}(exports));
+module.exports = Executables;
 

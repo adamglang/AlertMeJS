@@ -2,7 +2,7 @@ var model = require("../main-view-model");
 var Toast = require("nativescript-toast");
 
 var Timestamp = {
-    
+
     timestampEnabled: false,
 
     returnTimestamp: function() {

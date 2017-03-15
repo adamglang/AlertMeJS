@@ -1,14 +1,14 @@
 describe("getPermissions", function() {
     "use strict";
 
-    var permissions, getPermissions;
+    let permissions, getPermissions;
 
-    beforeEach(function() {
+    beforeEach(() => {
         permissions = require('nativescript-permissions');
         getPermissions = require('../src/getPermissions.js');
     });
 
-    it("triggers the permissions request", function() {
+    it("triggers the permissions request", () => {
         spyOn(permissions, "requestPermission");
         getPermissions("permissionsNeeded","success");
         expect(permissions.requestPermission).toHaveBeenCalled();

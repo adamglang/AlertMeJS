@@ -1,5 +1,6 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
     <StackLayout>
+        <TextView id="messageTextField" hint="Type your message here" propertyChange="valueUpdate" text="{{textFieldInput}}"/>
         <Button text="Choose a contact" tap="getContacts" class="btn" />
         <ListView items="{{contacts}}">
             <ListView.itemTemplate>
@@ -8,7 +9,6 @@
         </ListView>
         <Button text="SEND" class="btn" tap="sendMessage"/>
         <Button text="REMOVE CONTACTS" class="btn" tap="removeContacts"/>
-
         <Label text="add timestamp" horizontalAlignment="left" verticalAlignment="center"></Label><Switch checked="{{switches.timestamp}}" propertyChange="toggleTimestamp"/>
         <Label text="add geolocation" horizontalAlignment="left" verticalAlignment="center"></Label><Switch checked="{{switches.geoLocation}}" propertyChange="toggleGeoLocation"/>
     </StackLayout>

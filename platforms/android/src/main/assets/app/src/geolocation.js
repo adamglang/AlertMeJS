@@ -1,9 +1,9 @@
-var model = require("../main-view-model");
-var permissions = require('nativescript-permissions');
-var Toast = require("nativescript-toast");
-var constructMessage = require("./constructMessage");
+const model = require("../main-view-model");
+const permissions = require('nativescript-permissions');
+const Toast = require("nativescript-toast");
+const constructMessage = require("./constructMessage");
 
-var GeoLocation = {
+let GeoLocation = {
 
     geoLocationEnabled: false,
 
@@ -27,9 +27,7 @@ var GeoLocation = {
         }
     },
 
-    getCoordinates: function(location) {
-        return model.switches.geoLocation ? "latitude: " + location.latitude + " longitude:" + location.longitude : "";
-    }
+    getCoordinates: (location) => model.switches.geoLocation ? "from location: https://www.google.com/maps/?q=" + location.latitude + "," + location.longitude : ""
 };
 
 module.exports = GeoLocation;
